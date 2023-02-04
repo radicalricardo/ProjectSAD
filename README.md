@@ -1,1 +1,1 @@
-Final Project for a college class done in R.
+Final Project for a college class (Decision Making Systems) done in R.
